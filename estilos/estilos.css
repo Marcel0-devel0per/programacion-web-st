@@ -36,9 +36,8 @@ header {
 }
 
 header .brand {
-  color: #fff;
-  font-size: 1.5em;
-  font-weight: 700;
+  width: 120px;
+  margin-top: 10px;
   text-transform: uppercase;
   text-decoration: none;
 }
